@@ -1,7 +1,7 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/">按钮组件</router-link> |
+    <router-link to="/about">时间线组件</router-link>
   </nav>
   <router-view/>
 </template>

@@ -1,0 +1,4 @@
+{
+  "AButton": "./src/components/a-button/index.js",
+  "ATimeline": "./src/components/a-timeline/index.js"
+}

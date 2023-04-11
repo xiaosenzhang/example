@@ -1,5 +1,7 @@
+
 <template>
-  <div class="home">
+  <div class="a-timeline">
+    <button>时间线</button>
     <!-- <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   </div>
@@ -10,7 +12,7 @@
 // import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
-  name: 'HomeView',
+  name: 'a-timeline',
   components: {
     // HelloWorld
   }
